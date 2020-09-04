@@ -1,6 +1,13 @@
 README
 ========
 
+
+CONTENT
+--------
+[make your docs](source/README.rst)
+
+
+
 NOTE
 ----
 

@@ -17,8 +17,15 @@ goal
 
 ::
 
-   福楼拜 -- 据考，他手稿平均每页至少删掉百分之四十。他的笔有如犀利的手术刀，他常常对自己的创作无情删除，有时甚至将其精心创作的原稿全部推翻。
-   福楼拜对写作有一种宗教般的虔诚，所以他能够精心锤锻出文学史上真正的杰作。检视他的手稿，有时候简单一页纸居然会被推翻重写十到十五次。
+   福楼拜 
+
+   据考，他手稿平均每页至少删掉百分之四十。
+
+   他的笔有如犀利的手术刀，他常常对自己的创作无情删除，有时甚至将其精心创作的原稿全部推翻。
+
+   福楼拜对写作有一种宗教般的虔诚，所以他能够精心锤锻出文学史上真正的杰作。
+
+   检视他的手稿，有时候简单一页纸居然会被推翻重写十到十五次。
 
 
 
@@ -38,6 +45,7 @@ git 版本管理
 文档编辑
 ---------
 
+
 reStructuredText
 ^^^^^^^^^^^^^^^^^
 
@@ -46,9 +54,12 @@ reStructuredText
 #. `Docutils 项目文档概述 <https://docutils-zh-cn.readthedocs.io/zh_CN/latest/index.html>`__
 #. `使用ReadtheDocs托管文档  <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__
 
-markdow
-^^^^^^^
 
+markdown
+^^^^^^^^^^^
+
+#. `markdown <https://www.markdown.xyz/>`__
+#. `Markdown 教程 <https://www.runoob.com/markdown/md-tutorial.html>`__
 
 
 latex
