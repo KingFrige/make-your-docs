@@ -45,8 +45,6 @@ firefox build/html/index.html
 ```
 sudo apt-get install texlive-full
 make latexpdf
-
-firefox build/latex/debug-learning.pdf
 ```
 
 查看文件
