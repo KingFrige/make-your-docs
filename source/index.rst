@@ -11,6 +11,8 @@ Welcome to make-your-docs's documentation!
    :caption: Contents:
 
 
+   README.rst
+  
 
 Indices and tables
 ==================
