@@ -153,3 +153,14 @@ lucidchart
 #. `Lucidchart <https://lucidchart.zendesk.com/hc/en-us/articles/207300186-Getting-Started-Guide>`__
 
 
+mind map
+^^^^^^^^^^
+
+#. `freeplane <https://zhuanlan.zhihu.com/p/50368471>`__
+
+
+project tool
+^^^^^^^^^^^^^^
+
+
+
